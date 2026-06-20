@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "XBOX ONE",
+  "universe": "XB1 · XBOX ONE (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦XBOX ONE:XB1:f61c09⟧",
+  "carbon": "the-xbox-one.carbon.tiff (TIFF)",
+  "silicon": "the-xbox-one.silicon.png (PNG)",
+  "seal_sha256": "68506fcdef6765316f3440db021b47e4d0ab0337bb62b39ef4548e72b3627195",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

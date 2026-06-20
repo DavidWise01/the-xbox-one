@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The APU",
+  "universe": "XB1 · The APU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The APU:XB1:eb26b2⟧",
+  "carbon": "the-xb1-apu.carbon.tiff (TIFF)",
+  "silicon": "the-xb1-apu.silicon.png (PNG)",
+  "seal_sha256": "7b1e2df28d562537ea4b11a3d64d1f5040175445c7bd345d3b3b66666b42d735",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

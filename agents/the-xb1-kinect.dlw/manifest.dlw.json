@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Kinect",
+  "universe": "XB1 · Kinect (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦Kinect:XB1:2e27b9⟧",
+  "carbon": "the-xb1-kinect.carbon.tiff (TIFF)",
+  "silicon": "the-xb1-kinect.silicon.png (PNG)",
+  "seal_sha256": "fdfc978a28320c58d5e156e48e8a557aeb851d8f23a83a52a0e9011d6f123aba",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

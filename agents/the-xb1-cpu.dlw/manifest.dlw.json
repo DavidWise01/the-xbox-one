@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Jaguar Cores",
+  "universe": "XB1 · The Jaguar Cores (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Jaguar Cores:XB1:ca6fb9⟧",
+  "carbon": "the-xb1-cpu.carbon.tiff (TIFF)",
+  "silicon": "the-xb1-cpu.silicon.png (PNG)",
+  "seal_sha256": "0c499afd92bdd0a86b951fd1428aeeff1c48746ed1c3635f67ea481e0e24be91",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

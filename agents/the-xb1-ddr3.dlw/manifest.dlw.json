@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The DDR3",
+  "universe": "XB1 · The DDR3 (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The DDR3:XB1:c006dd⟧",
+  "carbon": "the-xb1-ddr3.carbon.tiff (TIFF)",
+  "silicon": "the-xb1-ddr3.silicon.png (PNG)",
+  "seal_sha256": "0f97c31ddf1b6bb094e8ddcc6804de808d1775c57198e3fcb26635dfa8a34488",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The ESRAM
+node XB1 · XB1 · ⟦The ESRAM:XB1:f5c29a⟧
+
+WHO   — The ESRAM — the fast scratchpad · ethereal
+WHAT  — the fast scratchpad · ethereal
+WHERE — XB1 · XBOX ONE (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — 32 MB of fast on-chip memory used to offset the slower DDR3 main RAM — a clever buffer, but harder to use than a unified fast pool.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the fast scratchpad · ethereal
+
+spoken token : min-phul-phas   ·   hex : f5c29a
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
